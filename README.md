@@ -1,5 +1,9 @@
 # KuaiShou Interview Experience 4-5 Month Campus Recruitment
 
+* GitPage在线阅读地址  https://yuanhang110.github.io/KuaiShou-Interview-Experience-4-5-Month-Campus-Recruitment/#/
+
+* 码云在线阅读地址 http://xyh110.gitee.io/kwai_45/#/
+
 ### 快手四五月Java岗牛客网面经整理
 
 每条纪录代表一次面试中出现的问题，出现次数多的问题就比较重要一点，可以用来确定面试方向。
